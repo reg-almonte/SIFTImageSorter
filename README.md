@@ -6,10 +6,10 @@ Inputs:
 2. Location of Images to be sorted
 
 Output:
-1. Images sorted to their correspnding folder
+1. Images sorted to their corresponding folder
 
 Libraries used:
 1. OpenCV
 
-Reference:
-https://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html
+References:
+1. https://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html
